@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome!
 
 ### Caution, Man at Work!
@@ -28,3 +29,6 @@ See [GitHub Flavored Markdown](https://guides.github.com/features/mastering-mark
 Nada!
 
 ### Support or Contact
+=======
+# portfolio
+>>>>>>> parent of 25867d1... Set theme jekyll-theme-minimal
