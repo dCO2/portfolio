@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Welcome!
+=======
+## Welcome to GitHub Pages
+>>>>>>> parent of 0182f37... Slight modifications to boilerplate Code
 =======
 ## Welcome to GitHub Pages
 >>>>>>> parent of 0182f37... Slight modifications to boilerplate Code
@@ -39,9 +43,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # portfolio
 >>>>>>> parent of 25867d1... Set theme jekyll-theme-minimal
+=======
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>>>>>>> parent of 0182f37... Slight modifications to boilerplate Code
 =======
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
